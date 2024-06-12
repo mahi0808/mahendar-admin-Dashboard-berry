@@ -3,7 +3,9 @@
 
 
 
-Berry is a free Bootstrap admin dashboard template. It is designed to deliver the best possible user experience with highly customizable feature-rich pages. Berry has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
+Berry is a free Bootstrap admin dashboard template. It is designed to deliver the best possible user experience with highly customizable feature-rich pages.
+built with the components from Flowbite and based on the utility-first Tailwind CSS framework featuring charts, tables, widgets, CRUD layouts, modals, drawers, and more.
+Berry has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
 ![image](https://github.com/mahi0808/mahendar-admin-Dashboard-berry/assets/103731665/fab4582b-b6a6-44a2-8b43-bd8523515a4a)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

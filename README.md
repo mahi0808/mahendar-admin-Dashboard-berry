@@ -23,6 +23,7 @@ Berry is a free Bootstrap admin dashboard template. It is designed to deliver th
 | -                                                                                        | ✓ RTL                                                                    |
 | -                                                                                        | ✓ JWT, Firebase, Auth0 authentications                                   |
 | -                                                                                        | ✓ [More components](https://codedthemes.com/item/berry-bootstrap-5-admin-template/)         |  
+![image](https://github.com/mahi0808/mahendar-admin-Dashboard-berry/assets/103731665/f9f295ee-835d-428a-b04e-454f002314c0)
 
 
 

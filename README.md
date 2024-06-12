@@ -1,29 +1,16 @@
-# Berry Free Bootstrap Admin Template 
+# Berry Free Bootstrap Admin page with fundamental analysis of cryptocurrency 
 
 
 
 
 Berry is a free Bootstrap admin dashboard template. It is designed to deliver the best possible user experience with highly customizable feature-rich pages. Berry has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
+![image](https://github.com/mahi0808/mahendar-admin-Dashboard-berry/assets/103731665/fab4582b-b6a6-44a2-8b43-bd8523515a4a)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/mahi0808/mahendar-admin-Dashboard-berry/assets/103731665/7d908b46-532b-458a-b3b3-9a7cab3b0958)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![IMG_8566.jpg](https://berrydashboard.io/imp-images/berry-github-free-bootstrap-repo-1.jpg)
-
-
-[Pro version](https://codedthemes.com/item/berry-bootstrap-5-admin-template/) of Berry react template contains features like Mutiple Layouts, Apps, Advance Components, Form Plugins, Layouts, Widgets, and many more.
-
-| [Berry Free](https://berrydashboard.io/bootstrap/free/)    | [Berry](https://codedthemes.com/item/berry-bootstrap-5-admin-template/) |
-| ---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------|
-| **9** Demo pages                                                                         | **45+** demo pages                                                       |
-| -                                                                                        | ✓ Multi-language                                                         |
-| -                                                                                        | ✓ Dark/Light Mode 🌓                                                    |
-| -                                                                                        | ✓ TypeScript version                                                     |
-| -                                                                                        | ✓ Design files (Figma)                                                   |
-| -                                                                                        | ✓ 6+ color Options                                                       |
-| -                                                                                        | ✓ RTL                                                                    |
-| -                                                                                        | ✓ JWT, Firebase, Auth0 authentications                                   |
-| -                                                                                        | ✓ [More components](https://codedthemes.com/item/berry-bootstrap-5-admin-template/)         |  
-![image](https://github.com/mahi0808/mahendar-admin-Dashboard-berry/assets/103731665/f9f295ee-835d-428a-b04e-454f002314c0)
 
 
 
